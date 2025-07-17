@@ -55,8 +55,6 @@ The **Random Forest Classifier** gave the best performance with **94% accuracy**
    ```bash
    pip install -r requirements.txt
 
-3. Run the notebook:
+3. Run the notebook
 
-    Open breast_cancer_prediction.ipynb     in Jupyter Notebook or Google Colab.
-
-    Run all the cells sequentially to       train and test the models.
+To run the project, open the      breast_cancer_prediction.ipynb file in Jupyter Notebook or Google Colab, and execute all the cells sequentially. This will load the dataset, preprocess the data, train the machine learning models, and evaluate their performance.
