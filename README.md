@@ -57,6 +57,6 @@ The **Random Forest Classifier** gave the best performance with **94% accuracy**
 
 3. Run the notebook:
 
-Open breast_cancer_prediction.ipynb in Jupyter Notebook or Google Colab.
+    Open breast_cancer_prediction.ipynb     in Jupyter Notebook or Google Colab.
 
-Run all the cells sequentially to train and test the models.
+    Run all the cells sequentially to       train and test the models.
