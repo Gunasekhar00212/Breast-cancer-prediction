@@ -1,4 +1,5 @@
 # Breast Cancer Prediction – A Machine Learning Based Approach
+🔗 **Live Demo**: [Check the Web App Here](https://breastcancer-inference-ai.streamlit.app/)
 
 This project aims to build a machine learning model that can predict whether a breast tumor is **benign** or **malignant** using the **Wisconsin Breast Cancer Diagnostic dataset**.
 
@@ -58,3 +59,9 @@ The **Random Forest Classifier** gave the best performance with **94% accuracy**
 3. Run the notebook
 
 To run the project, open the      breast_cancer_prediction.ipynb file in Jupyter Notebook or Google Colab, and execute all the cells sequentially. This will load the dataset, preprocess the data, train the machine learning models, and evaluate their performance.
+
+4. Or Try the Web App Directly:
+
+👉 [Live Prediction Web App](https://breastcancer-inference-ai.streamlit.app/)
+
+
