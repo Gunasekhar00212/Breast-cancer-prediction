@@ -1,5 +1,5 @@
 # Breast Cancer Prediction – A Machine Learning Based Approach
-🔗 **Live Demo**: [Check the Web App Here](https://breastcancer-inference-ai.streamlit.app/)
+🔗 **Live Demo**: [Check the Web App Here](https://guna00-breast-cancer-prediction.hf.space)
 
 This project aims to build a machine learning model that can predict whether a breast tumor is **benign** or **malignant** using the **Wisconsin Breast Cancer Diagnostic dataset**.
 
